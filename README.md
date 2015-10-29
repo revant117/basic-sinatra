@@ -2,7 +2,9 @@
  > Microframework like flask(python), express(nodejs).
 
 ### Routes
-  - / home
+  - / returns "Hello world"
+  - /day returns The day
+  - /time returns Time info
 
 ### Installation
   - `gem install sinatra`
